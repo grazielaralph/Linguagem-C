@@ -5,7 +5,7 @@ quando entrar um número maior que 1000.*/
 #include <stdio.h>
 
 int main(){
-    int numero, somaPar=0, somaImpar=0;
+    int numero=0, somaPar=0, somaImpar=0;
 
     while (numero<1000){
         printf("Insira um valor inteiro e positivo: ");
